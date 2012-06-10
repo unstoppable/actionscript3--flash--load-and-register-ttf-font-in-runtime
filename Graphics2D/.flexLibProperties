@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" version="1">
+  <includeClasses>
+    <classEntry path="org.sephiroth.errors.NonImplementationError"/>
+    <classEntry path="org.sephiroth.path.GenericPathWalker"/>
+    <classEntry path="org.sephiroth.path.PathBuilder"/>
+    <classEntry path="org.sephiroth.path.QuadraticBezierSegment"/>
+    <classEntry path="org.sephiroth.path.SubPath"/>
+    <classEntry path="org.sephiroth.path.GenericPath"/>
+    <classEntry path="org.sephiroth.path.CubicBezierSegment"/>
+    <classEntry path="org.sephiroth.path.LineSegment"/>
+    <classEntry path="org.sephiroth.path.ISegment"/>
+    <classEntry path="org.sephiroth.graphics.Graphics2D"/>
+    <classEntry path="org.sephiroth.path.IPath"/>
+    <classEntry path="org.sephiroth.path.CurveSegment"/>
+    <classEntry path="org.sephiroth.path.IPathWalker"/>
+    <classEntry path="org.sephiroth.path.CurvedSegment"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
